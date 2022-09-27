@@ -1,4 +1,4 @@
-# YooJin-Chang
+# YooJin Chang
 
 Phone: (201) 742-3966 | Location: Fort Lee, NJ  
 [Email](mailto:yc1135@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yoojin-chang/) | [GitHub](https://github.com/ychang49265)
