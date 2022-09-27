@@ -18,8 +18,9 @@ ___
 
 **RTConnect** - _WebRTC, Websockets, React, Typescript, Node.js, Express, AWS, CSS, Sass, Tailwind_  
 - Collaborated with a team of engineers to develop a React component library that allows developers to rapidly implement real-time video calls between two peers, expediting the process of setting up WebRTC, and decreasing the barrier of entry for those unfamiliar with the technology.
-- Led the team in creating and designing the landing page for the product. Incorporated React Router to create a cohesive user experience, displaying multiple client views on a single page application, and creating intuitive routes using navigational components all while minimizing calls to the server to dynamically and conditionally render various page views.
 [View Website](https://www.rtconnect.org/) | [GitHub](https://github.com/oslabs-beta/RTConnect)
+- Led the team in creating and designing the landing page for the product. Incorporated React Router to create a cohesive user experience, displaying multiple client views on a single page application, and creating intuitive routes using navigational components all while minimizing calls to the server to dynamically and conditionally render various page views.
+[Landing Page GitHub]([https://github.com/oslabs-beta/RTConnect](https://github.com/ychang49265/LandingPage))
 
 **NoteTube** - _React, TypeScript Express, PostgreSQL API, CRUD_  
 - Created an application that enables timestamped note-taking for youtube video content. Used React to build reusable, modular frontend components with React Hooks to define, hold, and update state, enforcing one-way data flow from parent components to child components while maintaining minimal re-renders.
