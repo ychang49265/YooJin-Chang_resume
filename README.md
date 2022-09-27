@@ -41,7 +41,7 @@ ___
  **Full-Time Software Engineering Immersive Bootcamp**, Dec 2021 - August 2022 
  _Codesmith_
  Prep course and full-time immersive software engineering bootcamp with a focus on JavaScript and programming fundamentals.
-
+ 
 
   **Bachelors of Science, School of Nursing**, Graduated 2015  
  _New York University_  
