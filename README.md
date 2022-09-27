@@ -51,9 +51,8 @@ ___
 ## Work Experience
 
   **ICU Registered Nurse**, October 2015 - December 2021  
- _Keck USC Hospital_  
+ _Keck USC Hospital, New York Presbyterian Hospital_  
  - Provided care for highly acute patients specialized in life-sustaining treatments before and after neurosurgery. Typical clinical scenarios include strokes, seizures, cerebral aneurysms, cerebral hemorrhages, brain tumors, and COVID-19.
- _New York Presbyterian Hospital_  
  - Collaborated with physicians to ensure timely progress of care, perform in-depth physical assessments, provide extensive education for patients, and utilize critical thinking to advocate for necessary treatment or testing.
 
  
