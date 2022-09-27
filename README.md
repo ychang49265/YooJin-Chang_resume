@@ -49,11 +49,13 @@ ___
 
 ___
 ## Work Experience
-**Registered Nurse**
-_Keck USC Hospital - Los Angeles, CA - _10/20 - 12/21_  
-New York Presbyterian Hospital - New York, NY - _09/15 - 09/20_  
- * Provide care for highly acute patients specialized in life-sustaining treatments before and after neurosurgery. Typical clinical scenarios include strokes, seizures, cerebral aneurysms, cerebral hemorrhages, brain tumors, and COVID-19.
- * Collaborate with physicians to ensure timely progress of care, perform in-depth physical assessments, provide extensive education for patients, and utilize critical thinking to advocate for necessary treatment or testing.
+
+  **Registered Nurse**, October 2015 - December 2021  
+ _Keck USC Hospital_  
+ Provided care for highly acute patients specialized in life-sustaining treatments before and after neurosurgery. Typical clinical scenarios include strokes, seizures, cerebral aneurysms, cerebral hemorrhages, brain tumors, and COVID-19.
+  _New York Presbyterian Hospital_  
+ Collaborated with physicians to ensure timely progress of care, perform in-depth physical assessments, provide extensive education for patients, and utilize critical thinking to advocate for necessary treatment or testing.
+
  
 ___
 ## Public Talks 
