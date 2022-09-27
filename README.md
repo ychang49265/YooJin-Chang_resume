@@ -17,13 +17,12 @@ ___
 ## Projects
 
 **RTConnect** - _WebRTC, Websockets, React, Typescript, Node.js, Express, AWS, CSS, Sass, Tailwind_  
-- Worked with a team to develop a React component library that allows developers to rapidly implement real-time video calls between two peers, expediting the process of setting up WebRTC, and decreasing the barrier of entry for those unfamiliar with the technology.
-- Led the team in creating the landing page for the product, incorporating React Router to create a cohesive user experience, displaying multiple client views on a single page application, and creating intuitive routes using navigational components all while minimizing calls to the server to dynamically and conditionally render various page views.
+- Collaborated with a team of engineers to develop a React component library that allows developers to rapidly implement real-time video calls between two peers, expediting the process of setting up WebRTC, and decreasing the barrier of entry for those unfamiliar with the technology.
+- Led the team in creating and designing the landing page for the product. Incorporated React Router to create a cohesive user experience, displaying multiple client views on a single page application, and creating intuitive routes using navigational components all while minimizing calls to the server to dynamically and conditionally render various page views.
 [View Website](https://www.rtconnect.org/) | [GitHub](https://github.com/oslabs-beta/RTConnect)
 
 **NoteTube** - _React, TypeScript Express, PostgreSQL API, CRUD_  
-- Worked with a team to create an application that enables timestamped note-taking for youtube video content.
-- Used React to build reusable, modular frontend components with React Hooks to define, hold, and update state so as to enforce one-way data flow from parent components to child components while maintaining minimal re-renders
+- Created an application that enables timestamped note-taking for youtube video content. Used React to build reusable, modular frontend components with React Hooks to define, hold, and update state, enforcing one-way data flow from parent components to child components while maintaining minimal re-renders.
 - Employed static typing by harnessing the Typescript superset to give the code more structure, make it self-documenting resulting in less error-prone code and better performance at runtime.
 [GitHub](https://github.com/FTRI-9-Yeti-Crab/notetube)
 
@@ -40,7 +39,7 @@ ___
 ___
 ## Education
  **Full-Time Software Engineering Immersive Bootcamp**, Dec 2021 - August 2022 
- Prep course and full-time immersive software engineering bootcamp with a focus JavaScript and programming fundamentals
+ Prep course and full-time immersive software engineering bootcamp with a focus on JavaScript and programming fundamentals.
 
   **Bachelors of Science, School of Nursing**, Graduated 2015  
  _New York University_  
@@ -54,9 +53,13 @@ New York Presbyterian Hospital - New York, NY - _09/15 - 09/20_
  * Provide care for highly acute patients specialized in life-sustaining treatments before and after neurosurgery. Typical clinical scenarios include strokes, seizures, cerebral aneurysms, cerebral hemorrhages, brain tumors, and COVID-19.
  * Collaborate with physicians to ensure timely progress of care, perform in-depth physical assessments, provide extensive education for patients, and utilize critical thinking to advocate for necessary treatment or testing.
  
+___
 ## Public Talks 
 **Flux Architecture, Redux, Zustand, Recoil - State Management Alternatives | Single Sprout Software Engineering Series**
 
+## Recognition
+Awards: New York Korean Nurses Association Scholarship Recipient, The National Council of Jewish Women
+Scholarship Recipient, NYU Founder’s Day Award Recipient
 
 
 ___
