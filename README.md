@@ -9,9 +9,9 @@ As an empathetic and driven engineer, I thrive in the area of making technology 
 ___
 ## Technical Skills
 
-**Proficient:** JavaScript (ES6+), React (Router, Hooks, Context API), WebRTC, Node.js, Express, HTML, CSS/SaSS/Tailwind, Git/Github, NoSQL (MongoDB/Mongoose), Postman, Web Protocols, WebSockets, OOP.
+**Proficient:** JavaScript (ES6+), React (Router, Hooks, Context API), WebRTC, Node.js, Express, HTML, CSS/SaSS/Tailwind, Git/Github, NoSQL (MongoDB/Mongoose), Postman, Web Protocols, WebSockets, OOP, REST API, Redux, Webpack.
 
-**Knowledgeable:** SQL (Postgres/MySQL), REST API, Redux, Webpack, testing (Jest/SuperTest), authentication (OAuth, Bcrypt, JWT), TypeScript, AWS.
+**Knowledgeable:** SQL (Postgres/MySQL), testing (Jest/SuperTest), authentication (OAuth, Bcrypt, JWT), TypeScript, AWS.
 
 ___
 ## Projects
@@ -19,7 +19,11 @@ ___
 **RTConnect** - _WebRTC, Websockets, React, Typescript, Node.js, Express, AWS, CSS, Sass, Tailwind_  
 - Collaborated with a team of engineers to develop a React component library that allows developers to rapidly implement real-time video calls between two peers, expediting the process of setting up WebRTC, and decreasing the barrier of entry for those unfamiliar with the technology.
 [View Website](https://www.rtconnect.org/) | [GitHub](https://github.com/oslabs-beta/RTConnect)
-- Led the team in creating and designing the landing page for the product. Incorporated React Router to create a cohesive user experience, displaying multiple client views on a single page application, and creating intuitive routes using navigational components all while minimizing calls to the server to dynamically and conditionally render various page views.
+- Led the team in creating and designing the landing page for the product. Designed and developed primary UI components and optimized styling protocols with the use of higher order React components, Styled components, and a defined style guide in order to maintain overall code quality and cleanliness. 
+- Incorporated React Router to create a cohesive user experience, displaying multiple client views on a single page application, and creating intuitive routes using navigational components all while minimizing calls to the server to dynamically and conditionally render various page views.
+- Engineered a persistent bi-directional messaging pattern using Websockets to create an interactive
+communication session between the peer's browser and server in order to connect reliably.
+- Configured AWS (S3) for their scalable and flexible cloud storage to securely manage RTConnect’s data and to deploy a companion website with global edge caching on HTTPS for improved access and speed.
 [Landing Page GitHub](https://github.com/ychang49265/LandingPage)
 
 **NoteTube** - _React, TypeScript Express, PostgreSQL API, CRUD_  
