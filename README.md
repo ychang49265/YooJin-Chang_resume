@@ -33,13 +33,14 @@ communication session between the peer's browser and server in order to connect 
 - Constructed Node.js/Express server to efficiently handle asynchronous HTTP/API requests to various endpoints using the middleware design pattern, using routers and controllers to modularize requests with reliable debugging. 
 
 **ConnectI/On** - _JavaScript, React, CSS, Sass, API, OAuth, SQL_  
-- Created a Community Events Finder application focusing on developing an authentication system that focused on the end user data security by integrating a combination of cookies and bcrypt to encrypt sensitive user data, providing a streamlined user signup process.
+- Created a Social Events Finder application customized for users seeking events near one's location.
 [View GitHub](https://github.com/TeamStabRabbits/Scratch-Project) 
 - Utilized SQL, a relational database used to store user data, user-created events, and chat messages. Utilized join tables to easily and efficiently combine data to be used in different views.
+- Applied user authentication with JWTs to serve pages via user-facing authentication securely with minimal user effort
 
 **EasyMed** - _React, Node.js, Express, MongoDB, React Hooks, CSS, Sass, CRUD, API_  
 - Leveraged mongoDB’s scalability and enforced uniqueness in the user collection to prevent data redundancy, utilizing models to group data into human readable and flexible documents to simplify data storage.
-- Applied user authentication with JWTs to serve pages via user-facing authentication securely with minimal user effort
+- Incorporated Test Driven Development using Jest to create an intuitive codebase with automated testing support.
 
 ___
 ## Education
